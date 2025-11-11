@@ -1,5 +1,5 @@
 # Experiment 7: Interface Design for DUT Ports and Signal Encapsulation
-
+## SHARUN N (212223060257)
 ---
 
 ## Aim  
@@ -128,7 +128,9 @@ endmodule
 ```
 ### Simulation Output
 
---- PAste the output here
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0ce6827c-fc0b-436b-9e7c-08c06a404dac" />
+
+
 
 ### Result
 
